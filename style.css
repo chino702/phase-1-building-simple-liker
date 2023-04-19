@@ -64,3 +64,11 @@ article.media-post > footer ul {
 .hidden {
   visibility: hidden;
 }
+
+#modal {
+  display: none;
+}
+
+#modal.active {
+  display: block;
+}
